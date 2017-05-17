@@ -1,0 +1,39 @@
+header {
+	text-align: center;
+	text-transform: uppercase;
+	color: #303030;
+}
+
+header p {
+	font-size: 18px;
+}
+
+header h1 {
+	font-size: 70px;
+}
+
+.slider {
+	position: relative;
+	max-width: 1200px;
+	width: 100%;
+	margin: 50px auto; 
+	
+}
+.slick-arrow{
+	position: absolute;
+	top: 35%; 
+	background: none;
+	color: #000;
+	border: none;
+	opacity: 0.3;
+}
+
+.slick-next{
+	right: 0;
+	z-index: 5;
+}
+
+.slick-prev{
+	left: 0;
+	z-index: 5;
+}
