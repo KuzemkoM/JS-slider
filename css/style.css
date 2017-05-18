@@ -16,9 +16,11 @@ header h1 {
 	position: relative;
 	max-width: 1200px;
 	width: 100%;
-	margin: 50px auto; 
-	
+	margin: 50px auto;
+	padding-left: 100px;
+	padding-right: 100px;
 }
+
 .slick-arrow{
 	position: absolute;
 	top: 35%; 
